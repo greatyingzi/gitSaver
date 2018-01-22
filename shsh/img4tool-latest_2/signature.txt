@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+File hashes (SHA256):
+img4tool_linux : adc05df09af8a6d6be9a297287ddd08614a97a43c54679b78981e3fd165f4495  -
+img4tool_macos : f56647b5319d54de89b54aeb6b33ec75f3e7b5f35b99c4a2e7331116eb72456b  -
+img4tool_windows.exe : 49045ea62c8d14574935927c69b96a3cdef86d5fc83c7a2e5b8c887099aafe6a  -
+latest-sha-img4tool.txt : 4913e8cd2c9a7c644a6fdd3c49ac6b23de75d948006a14e6f0bfcb6a55d9bc04  -
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iF4EAREIAAYFAlhdBREACgkQ0O7HGAZZoTkonwEA1P19GpLiay2NLXYJezF6J8VA
+XU+sn32GHXCriy+p8xIBAMHSjN6ns7c/S+ABjS8caOkSa/nQRpam9B/UPm0T8ZTy
+=fKOY
+-----END PGP SIGNATURE-----
